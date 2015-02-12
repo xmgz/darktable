@@ -35,7 +35,7 @@ msgstr "doble click para seleccionar"
 
 #: ../build/src/preferences_gen.h:897 ../build/src/preferences_gen.h:1355
 msgid "(needs a restart)"
-msgstr ""
+msgstr "(precisa reinicio)"
 
 #: ../build/src/preferences_gen.h:904
 #, fuzzy
